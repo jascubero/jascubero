@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an aspiring physicist and data scientist speci
 
 ## 🌟 About Me
 
-- 🌈 Transwoman physicist based in the Philippines.
+- 🏳️‍⚧️ Transwoman physicist based in the Philippines.
 - 🎓 Currently pursuing my master's degree in Physics. PhD in Geophysics/Seismology, next!
 - 🛰️ Research focus on maritime surveillance using SAR images.
 - 📊 Enthusiastic about data science, machine learning, and geophysics. 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm an aspiring physicist and data scientist speci
 
 ## 🌟 Fun Facts
 
-- 🏳️‍⚧️ Advocate for LGBTQ+ representation in STEM.
+- 🌈 Advocate for LGBTQ+ representation in STEM.
 - 🌊 Passionate about marine biodiversity and climate justice.
 - 🎨 Enjoys art appreciation as a hobby.
 
