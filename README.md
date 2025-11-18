@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an aspiring physicist and data scientist speci
 - 📊 Enthusiastic about data science, machine learning, and geophysics. 
 - 🌱 Eager to learn and contribute to disaster preparedness and sustainability.
 
-## 🔭 Current Projects
+## 🔭 Former Academic Projects
 
 - **Ship Detection Using Sentinel-1 SAR Images**: Leveraging image processing techniques to detect ships and combat illegal fishing.
 - **Spatiotemporal analytics of ships within WPS**: Maximizing the insights derived from AIS data for maritime surveillance in the West Philippine Sea. \#AtinAngPinas 
